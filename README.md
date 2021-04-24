@@ -1,2 +1,2 @@
-# GuessNum_Game
+# Guess Number Game
 Pet-project on JavaScript
